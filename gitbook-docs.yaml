@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: DaC-Test
+  structure:
+    - type: space
+      key: space-dac-test
+      title: DaC-Test
+      path: dac-test
+      default: true
+      content:
+        directory: ./
